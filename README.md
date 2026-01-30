@@ -1,4 +1,4 @@
 # apnacollage
 This is my First Repository
 <br>
-Author : Tanisha Diyora
+Author : Tanisha Diyora (patel)
